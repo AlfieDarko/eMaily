@@ -4,7 +4,7 @@
 	"description": "",
 	"main": "index.js",
 	"engines": {
-		"node": "8.8.1",
+		"node": "8.1.1",
 		"npm": "5.0.3"
 	},
 	"scripts": {
@@ -14,5 +14,9 @@
 	"license": "ISC",
 	"dependencies": {
 		"express": "^4.15.4"
+	},
+	"devDependencies": {
+		"eslint": "^4.6.1",
+		"eslint-config-eslint": "^4.0.0"
 	}
 }
