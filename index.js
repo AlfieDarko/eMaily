@@ -1,9 +1,9 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const cookieSession = require("cookie-session");
+const keys = require("./config/keys");
 const passport = require("passport");
 mongoose.Promise = global.Promise;
-const keys = require("./config/keys");
 require("./models/User");
 require("./services/passport");
 
