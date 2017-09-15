@@ -1,0 +1,13 @@
+{
+	"web": {
+		"client_id":
+			"319126392737-p8du20hqrte6kr7qnt62eqjgkqnjrd08.apps.googleusercontent.com",
+		"project_id": "united-night-179815",
+		"auth_uri": "https://accounts.google.com/o/oauth2/auth",
+		"token_uri": "https://accounts.google.com/o/oauth2/token",
+		"auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+		"client_secret": "d21NCoSZCGGIampBhFE-e2C4",
+		"redirect_uris": ["http://localhost:5000/*"],
+		"javascript_origins": ["http://localhost:5000"]
+	}
+}
